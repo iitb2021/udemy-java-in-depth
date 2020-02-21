@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01 Course Introduction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02 Java A High-level Overview" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03 Classes Objects and their Members" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 Method Building Blocks Operators  Control-flow Statements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 Packages Strings and Information Hiding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06 static final and Coding Conventions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07 Case Study A Social Bookmarking Application" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 Serious OOP Inheritance  Polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09 More Serious OOP Abstract Classes  Interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10 Programming with Eclipse IDE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11 Project Implementing a Social Bookmarking App" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12 JVM Internals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 Exceptions with Best Practices" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 Input-Output" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15 Collections Framework (aka Data Structures)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16 Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17 Nested Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18 enums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19 Concurrency (aka Multi-threading)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20 Functional-style Programming ~ Lambdas  Streams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21 Date  Time API ~ Covers Java 8  also Legacy API" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22 Database Implementation  JDBC API" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
