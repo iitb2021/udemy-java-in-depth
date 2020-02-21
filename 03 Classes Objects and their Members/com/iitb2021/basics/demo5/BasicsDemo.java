@@ -1,4 +1,4 @@
-package demo5;
+package com.iitb2021.basics.demo5;
 
 public class BasicsDemo {
 
